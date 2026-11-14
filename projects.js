@@ -71,6 +71,29 @@ window.PORTFOLIO = [
     "featured": true
   },
   {
+    "id": "ds-sport",
+    "title": "ДС Спорт",
+    "subtitle": "Спорт здесь и сейчас",
+    "category": "Спорт и проекты",
+    "label": "Реклама для проекта",
+    "tags": [
+      "brands"
+    ],
+    "poster": "ds-sport-poster.jpg",
+    "hls": "ds-sport/master.m3u8",
+    "duration": "0:42",
+    "ratio": "3 / 4",
+    "alt": "Боксёрские перчатки и кожаная груша в современном спортивном зале",
+    "description": "Спорт в ритме города: тренировки от первого лица, динамичный монтаж и поиск занятий в приложении. Рекламная история для «ДС Спорт».",
+    "details": [
+      "Спортивный сервис",
+      "Рекламный ролик",
+      "1080 × 1920 · 50 кадров/с"
+    ],
+    "original": "https://drive.google.com/file/d/1ThZmXgJk1aDLop17tCYJi9nn415UhE58/view",
+    "featured": true
+  },
+  {
     "id": "fashion",
     "title": "Движение в стиле бренда",
     "subtitle": "Свет, архитектура и характер коллекции",
