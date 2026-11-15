@@ -159,7 +159,10 @@ async function playProject(project, token) {
   // Do not leave a stalled network request behind an endless spinner.
   loadingTimeout = setTimeout(() => showMediaError(token), 30000);
   if (project.video) {
-    video.src = `assets/${project.video}`;
+    const useMobileVideo = project.videoMobile && (
+      window.matchMedia('(max-width: 850px)').matches || navigator.connection?.saveData
+    );
+    video.src = `assets/${useMobileVideo ? project.videoMobile : project.video}`;
     requestPlayback(token);
     return;
   }

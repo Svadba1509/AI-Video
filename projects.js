@@ -34,7 +34,8 @@ window.PORTFOLIO = [
       "product"
     ],
     "poster": "velmora-poster.jpg",
-    "hls": "velmora/master.m3u8",
+    "video": "velmora-web.mp4",
+    "videoMobile": "velmora-mobile.mp4",
     "duration": "0:42",
     "ratio": "4 / 5",
     "alt": "Бежевый отпариватель VELMORA на фоне мягких световых бликов",
