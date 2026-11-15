@@ -117,27 +117,27 @@ window.PORTFOLIO = [
     "original": "https://drive.google.com/file/d/1XXWP6AUJccxxpJSQgNCIJtPYBoJ1wmKD/view"
   },
   {
-    "id": "nature",
-    "title": "Природа ощущений",
-    "subtitle": "История аромата через свет и фактуру",
-    "category": "Beauty",
-    "label": "Рекламный концепт",
+    "id": "design-solution",
+    "title": "Дизайнерское решение",
+    "subtitle": "Гостиная, которая складывается на глазах",
+    "category": "Интерьер",
+    "label": "Авторский концепт",
     "tags": [
-      "concepts",
-      "product"
+      "concepts"
     ],
-    "poster": "nature-poster.jpg",
-    "video": "nature.mp4",
-    "duration": "0:10",
-    "ratio": "4 / 5",
-    "alt": "Флакон духов и зелёная груша на камне в солнечном свете",
-    "description": "Пример рекламы для косметических брендов: парфюмерный флакон, природные фактуры и солнечный свет. Атмосфера, которую можно почувствовать через экран.",
+    "poster": "design-solution-poster.jpg",
+    "video": "design-solution.mp4",
+    "videoMobile": "design-solution-mobile.mp4",
+    "duration": "0:15",
+    "ratio": "3 / 4",
+    "alt": "Гостиная с оливковым диваном, деревянными стеллажами и картиной с лошадью",
+    "description": "Преображение гостиной: мебель, свет и детали постепенно наполняют пространство. Короткая визуальная история о том, как складывается цельный интерьер.",
     "details": [
-      "Beauty",
-      "Рекламный концепт",
-      "1080 × 1920"
+      "Интерьер",
+      "Визуальный концепт",
+      "1080 × 1920 · 24 кадра/с"
     ],
-    "original": "https://drive.google.com/file/d/1FwGzOcRfmoPPqAUrdk9-uxY117gA-jCA/view"
+    "original": "assets/design-solution.mp4"
   },
   {
     "id": "furniture",
@@ -229,26 +229,26 @@ window.PORTFOLIO = [
     "featured": true
   },
   {
-    "id": "design-solution",
-    "title": "Дизайнерское решение",
-    "subtitle": "Гостиная, которая складывается на глазах",
-    "category": "Интерьер",
-    "label": "Авторский концепт",
+    "id": "nature",
+    "title": "Природа ощущений",
+    "subtitle": "История аромата через свет и фактуру",
+    "category": "Beauty",
+    "label": "Рекламный концепт",
     "tags": [
-      "concepts"
+      "concepts",
+      "product"
     ],
-    "poster": "design-solution-poster.jpg",
-    "video": "design-solution.mp4",
-    "videoMobile": "design-solution-mobile.mp4",
-    "duration": "0:15",
-    "ratio": "3 / 4",
-    "alt": "Гостиная с оливковым диваном, деревянными стеллажами и картиной с лошадью",
-    "description": "Преображение гостиной: мебель, свет и детали постепенно наполняют пространство. Короткая визуальная история о том, как складывается цельный интерьер.",
+    "poster": "nature-poster.jpg",
+    "video": "nature.mp4",
+    "duration": "0:10",
+    "ratio": "4 / 5",
+    "alt": "Флакон духов и зелёная груша на камне в солнечном свете",
+    "description": "Пример рекламы для косметических брендов: парфюмерный флакон, природные фактуры и солнечный свет. Атмосфера, которую можно почувствовать через экран.",
     "details": [
-      "Интерьер",
-      "Визуальный концепт",
-      "1080 × 1920 · 24 кадра/с"
+      "Beauty",
+      "Рекламный концепт",
+      "1080 × 1920"
     ],
-    "original": "assets/design-solution.mp4"
+    "original": "https://drive.google.com/file/d/1FwGzOcRfmoPPqAUrdk9-uxY117gA-jCA/view"
   }
 ];
