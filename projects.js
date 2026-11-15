@@ -205,28 +205,6 @@ window.PORTFOLIO = [
     "original": "https://drive.google.com/file/d/1YdrLmqltcZz2NdxGHZfd7oCy9dCU52vs/view"
   },
   {
-    "id": "personal-creation",
-    "title": "Личное творчество",
-    "subtitle": "Цвет, ритм и яркий характер",
-    "category": "Личное творчество",
-    "label": "Авторский концепт",
-    "tags": [
-      "concepts"
-    ],
-    "poster": "personal-creation-poster.jpg",
-    "video": "personal-creation.mp4",
-    "duration": "0:15",
-    "ratio": "3 / 4",
-    "alt": "Модель в чёрном жакете с яркой помадой на фоне розовых лестниц и цветных арок",
-    "description": "Личный творческий эксперимент: бьюти-образ, насыщенные цвета и необычная архитектура. Авторская видеоработа для портфолио.",
-    "details": [
-      "Личное творчество",
-      "Авторский концепт",
-      "1080 × 1920"
-    ],
-    "original": "assets/personal-creation.mp4"
-  },
-  {
     "id": "ds-sport",
     "title": "Спорт",
     "subtitle": "Спорт здесь и сейчас",
