@@ -227,5 +227,28 @@ window.PORTFOLIO = [
     ],
     "original": "https://drive.google.com/file/d/1ThZmXgJk1aDLop17tCYJi9nn415UhE58/view",
     "featured": true
+  },
+  {
+    "id": "design-solution",
+    "title": "Дизайнерское решение",
+    "subtitle": "Гостиная, которая складывается на глазах",
+    "category": "Интерьер",
+    "label": "Авторский концепт",
+    "tags": [
+      "concepts"
+    ],
+    "poster": "design-solution-poster.jpg",
+    "video": "design-solution.mp4",
+    "videoMobile": "design-solution-mobile.mp4",
+    "duration": "0:15",
+    "ratio": "3 / 4",
+    "alt": "Гостиная с оливковым диваном, деревянными стеллажами и картиной с лошадью",
+    "description": "Преображение гостиной: мебель, свет и детали постепенно наполняют пространство. Короткая визуальная история о том, как складывается цельный интерьер.",
+    "details": [
+      "Интерьер",
+      "Визуальный концепт",
+      "1080 × 1920 · 24 кадра/с"
+    ],
+    "original": "assets/design-solution.mp4"
   }
 ];
