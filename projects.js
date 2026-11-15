@@ -56,18 +56,18 @@ window.PORTFOLIO = [
     "tags": [
       "brands"
     ],
-    "poster": "arena-poster.jpg",
-    "video": "arena.mp4",
-    "duration": "0:25",
+    "poster": "arena-v2-poster.jpg",
+    "hls": "arena-v2/master.m3u8",
+    "duration": "0:36",
     "ratio": "5 / 6",
-    "alt": "Спортивная площадка «Арена Мяча» среди зелени и городской архитектуры",
+    "alt": "Парень с волейбольным мячом на крытой спортивной площадке «Арена Мяча»",
     "description": "Реклама проекта «Арена Мяча»: пространство для игры, живого общения и движения. История о людях и эмоциях вокруг спортивной площадки.",
     "details": [
       "Спортивный проект",
       "Рекламная история",
-      "720 × 1280"
+      "4K · 2160 × 3840"
     ],
-    "original": "https://drive.google.com/file/d/14YXs92BEsHBWJmc0KteeWlWXag4GfVdS/view",
+    "original": "https://drive.google.com/file/d/1-ND9ZZFKl_89Uva24fihW8TfG9632ME5/view",
     "featured": true
   },
   {
@@ -248,5 +248,28 @@ window.PORTFOLIO = [
       "1080 × 1920"
     ],
     "original": "assets/personal-creation.mp4"
+  },
+  {
+    "id": "pizzeria",
+    "title": "Для вашей пиццерии 👌🏻",
+    "subtitle": "Аппетитная история в ярких красках",
+    "category": "Еда и рестораны",
+    "label": "Рекламный концепт",
+    "tags": [
+      "concepts",
+      "product"
+    ],
+    "poster": "pizzeria-poster.jpg",
+    "video": "pizzeria.mp4",
+    "duration": "0:15",
+    "ratio": "3 / 4",
+    "alt": "Иллюстрированный повар и пицца с томатами и базиликом на ярком синем фоне",
+    "description": "Анимационный концепт для пиццерии: повар, летящие ингредиенты и аппетитная пицца. Яркая иллюстрация и движение для рекламы и соцсетей.",
+    "details": [
+      "Еда и рестораны",
+      "Анимационный концепт",
+      "1080 × 1920"
+    ],
+    "original": "assets/pizzeria.mp4"
   }
 ];
