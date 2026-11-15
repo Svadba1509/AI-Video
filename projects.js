@@ -71,27 +71,27 @@ window.PORTFOLIO = [
     "featured": true
   },
   {
-    "id": "ds-sport",
-    "title": "Спорт",
-    "subtitle": "Спорт здесь и сейчас",
-    "category": "Спорт и проекты",
-    "label": "Реклама для проекта",
+    "id": "pizzeria",
+    "title": "Для вашей пиццерии 👌🏻",
+    "subtitle": "Аппетитная история в ярких красках",
+    "category": "Еда и рестораны",
+    "label": "Рекламный концепт",
     "tags": [
-      "brands"
+      "concepts",
+      "product"
     ],
-    "poster": "ds-sport-poster.jpg",
-    "hls": "ds-sport/master.m3u8",
-    "duration": "0:42",
+    "poster": "pizzeria-poster.jpg",
+    "video": "pizzeria.mp4",
+    "duration": "0:15",
     "ratio": "3 / 4",
-    "alt": "Боксёрские перчатки и кожаная груша в современном спортивном зале",
-    "description": "Тренировки от первого лица, динамичный монтаж и поиск занятий в приложении. Рекламная история о спорте в ритме города.",
+    "alt": "Иллюстрированный повар и пицца с томатами и базиликом на ярком синем фоне",
+    "description": "Анимационный концепт для пиццерии: повар, летящие ингредиенты и аппетитная пицца. Яркая иллюстрация и движение для рекламы и соцсетей.",
     "details": [
-      "Спортивный сервис",
-      "Рекламный ролик",
-      "1080 × 1920 · 50 кадров/с"
+      "Еда и рестораны",
+      "Анимационный концепт",
+      "1080 × 1920"
     ],
-    "original": "https://drive.google.com/file/d/1ThZmXgJk1aDLop17tCYJi9nn415UhE58/view",
-    "featured": true
+    "original": "assets/pizzeria.mp4"
   },
   {
     "id": "fashion",
@@ -161,29 +161,6 @@ window.PORTFOLIO = [
     "original": "https://drive.google.com/file/d/18S_o67rSbLD3l-WdWrRm3gWCKRefpzBT/view"
   },
   {
-    "id": "headphones",
-    "title": "За пределами звука",
-    "subtitle": "Продукт в неожиданном пространстве",
-    "category": "Техника",
-    "label": "Рекламный концепт",
-    "tags": [
-      "concepts",
-      "product"
-    ],
-    "poster": "headphones-poster.jpg",
-    "video": "headphones.mp4",
-    "duration": "0:08",
-    "ratio": "4 / 3",
-    "alt": "Металлические наушники в солнечном скалистом пейзаже",
-    "description": "Пример рекламы с наушниками. Масштаб, металл и движение создают выразительный визуальный образ продукта.",
-    "details": [
-      "Техника",
-      "Рекламный концепт",
-      "1920 × 1080"
-    ],
-    "original": "https://drive.google.com/file/d/1G3Kg7JdAibQXEbnt5WHxNR14dqTibrNo/view"
-  },
-  {
     "id": "safety-sketch",
     "title": "Скетч об охране труда",
     "subtitle": "О безопасности — с характером",
@@ -250,26 +227,26 @@ window.PORTFOLIO = [
     "original": "assets/personal-creation.mp4"
   },
   {
-    "id": "pizzeria",
-    "title": "Для вашей пиццерии 👌🏻",
-    "subtitle": "Аппетитная история в ярких красках",
-    "category": "Еда и рестораны",
-    "label": "Рекламный концепт",
+    "id": "ds-sport",
+    "title": "Спорт",
+    "subtitle": "Спорт здесь и сейчас",
+    "category": "Спорт и проекты",
+    "label": "Реклама для проекта",
     "tags": [
-      "concepts",
-      "product"
+      "brands"
     ],
-    "poster": "pizzeria-poster.jpg",
-    "video": "pizzeria.mp4",
-    "duration": "0:15",
+    "poster": "ds-sport-poster.jpg",
+    "hls": "ds-sport/master.m3u8",
+    "duration": "0:42",
     "ratio": "3 / 4",
-    "alt": "Иллюстрированный повар и пицца с томатами и базиликом на ярком синем фоне",
-    "description": "Анимационный концепт для пиццерии: повар, летящие ингредиенты и аппетитная пицца. Яркая иллюстрация и движение для рекламы и соцсетей.",
+    "alt": "Боксёрские перчатки и кожаная груша в современном спортивном зале",
+    "description": "Тренировки от первого лица, динамичный монтаж и поиск занятий в приложении. Рекламная история о спорте в ритме города.",
     "details": [
-      "Еда и рестораны",
-      "Анимационный концепт",
-      "1080 × 1920"
+      "Спортивный сервис",
+      "Рекламный ролик",
+      "1080 × 1920 · 50 кадров/с"
     ],
-    "original": "assets/pizzeria.mp4"
+    "original": "https://drive.google.com/file/d/1ThZmXgJk1aDLop17tCYJi9nn415UhE58/view",
+    "featured": true
   }
 ];
